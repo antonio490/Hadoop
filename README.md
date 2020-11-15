@@ -22,3 +22,4 @@ Products inside the Hadoop ecosystem:
 - Mahout
 - Zookeeper
 - Sqoop
+- Spark
